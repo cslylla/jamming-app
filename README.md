@@ -19,5 +19,5 @@
 
 ### 3. Links
 
-- Visit the dictionary app [here](#)
-- Further info about the [Spotify API](#)
+- Visit the Jammming app [here](#)
+- Further info about the [Spotify API](https://developer.spotify.com/documentation/web-api/)
