@@ -1,5 +1,5 @@
 const clientID = "c6454399cd2f482dac8041b373d72d36";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "http://unknown-art.surge.sh";
 let accessToken;
 
 const Spotify = {
